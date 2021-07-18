@@ -1,5 +1,2 @@
-header { background: url('https://github.com/YouYuu1/HERBATA/hacia.jpg') fixed; }
-section { background: green; width:70%; height: 100px; float: left; }
-aside { background: orange; width:30%; height: 100px; float: right; }
-footer { background: blue; width:100%; height: 100px; clear: both; }
+background: url('https://github.com/YouYuu1/HERBATA/hacia.jpg') fixed;
 p { font: 32px Times New Roman, sans-serif; color: black; text-align: center; }
